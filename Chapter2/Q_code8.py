@@ -2,7 +2,5 @@
 
 a=int(input("Enter num1 : "))
 b=int(input("Enter num2 : "))
-if(a>b):
-    print("a is greater than b")
-else:
-    print("a is not greater than b")
+c=(print(a,"is greater than",b))if(a>b)else (print(a,"is not greater than",b))
+print(c)
