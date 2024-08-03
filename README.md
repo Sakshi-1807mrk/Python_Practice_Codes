@@ -1,2 +1,2 @@
-# PythonChapterwisePractice-Codes
-This Repo contains chapterwise practice set solutions of Code with Harry python notes.
+# Python_Practice-Codes
+This Repository contains a collection of Python practice codes.
